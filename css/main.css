@@ -1,0 +1,34 @@
+#content{
+	text-align: center;
+}
+canvas{
+	display: block;
+	margin: 50px auto;
+	box-shadow: -2px -2px 2px #EFEFEF,5px 5px 5px #B9B9B9;
+}
+#btn{
+	text-align: center;
+	margin-top: 20px;
+}
+#restart{
+	width: 100px;
+	height: 50px;
+	color: #FFF;
+	background-color: #656565;
+	font-size: 16px;
+	margin-right: 15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius: 15px;
+}
+#close{
+	width: 100px;
+	height: 50px;
+	color: #FFF;
+	background-color: #656565;
+	font-size: 16px;
+	margin-left: 15px;
+	-moz-border-radius:15px; /* Gecko browsers 设置圆角*/
+	-webkit-border-radius:15px;/* Webkit browsers */
+	border-radius: 15px; /* W3C syntax */
+}
